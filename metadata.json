@@ -1,0 +1,10 @@
+{
+  "name": "JARVIS AI — 3D Holographic AI Assistant",
+  "description": "Futuristic JARVIS-style personal AI assistant with interactive 3D WebGL holographic core, voice recognition, real-time speech synthesis, and telemetry HUD.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
